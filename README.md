@@ -3,7 +3,7 @@
 
 # Hello Microverse
 
- Description the project.
+ This project is written for purpose of learning and setup the first Microverse project.
 ## Built With
 
 - HTML and CSS
